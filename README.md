@@ -13,6 +13,6 @@
 ### URL
 [获取url参数](https://github.com/lawliet467/js-utils/blob/master/url/getUrlParam.js)
 ### 其他
-[函数防抖](https://github.com/lawliet467/js-utils/blob/master/other/debounce.js)
-[函数节流](https://github.com/lawliet467/js-utils/blob/master/other/throttle.js)
+[函数防抖](https://github.com/lawliet467/js-utils/blob/master/other/debounce.js)  
+[函数节流](https://github.com/lawliet467/js-utils/blob/master/other/throttle.js)  
 [判断类型](https://github.com/lawliet467/js-utils/blob/master/other/typeOf.js)
