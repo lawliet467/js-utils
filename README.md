@@ -12,6 +12,8 @@
 [判断是否车牌号](https://github.com/lawliet467/js-utils/blob/master/regexp/isCarNum.js)  
 ### URL
 [获取url参数](https://github.com/lawliet467/js-utils/blob/master/url/getUrlParam.js)
+### 时间
+[时间格式化](https://github.com/lawliet467/js-utils/blob/master/date/dateFormat.js)
 ### 其他
 [函数防抖](https://github.com/lawliet467/js-utils/blob/master/other/debounce.js)  
 [函数节流](https://github.com/lawliet467/js-utils/blob/master/other/throttle.js)  
