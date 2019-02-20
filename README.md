@@ -17,4 +17,6 @@
 ### 其他
 [函数防抖](https://github.com/lawliet467/js-utils/blob/master/other/debounce.js)  
 [函数节流](https://github.com/lawliet467/js-utils/blob/master/other/throttle.js)  
-[判断类型](https://github.com/lawliet467/js-utils/blob/master/other/typeOf.js)
+[判断类型](https://github.com/lawliet467/js-utils/blob/master/other/typeOf.js)  
+[格式化价格](https://github.com/lawliet467/js-utils/blob/master/other/formatPrice.js)  
+[判断是否emoji](https://github.com/lawliet467/js-utils/blob/master/other/isEmoji.js)  
